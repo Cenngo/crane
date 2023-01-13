@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/crane/static/css/main.69539eae.css",
-    "main.js": "/crane/static/js/main.9b842062.js",
+    "main.js": "/crane/static/js/main.502e9285.js",
     "static/js/787.078a4898.chunk.js": "/crane/static/js/787.078a4898.chunk.js",
     "index.html": "/crane/index.html",
     "main.69539eae.css.map": "/crane/static/css/main.69539eae.css.map",
-    "main.9b842062.js.map": "/crane/static/js/main.9b842062.js.map",
+    "main.502e9285.js.map": "/crane/static/js/main.502e9285.js.map",
     "787.078a4898.chunk.js.map": "/crane/static/js/787.078a4898.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69539eae.css",
-    "static/js/main.9b842062.js"
+    "static/js/main.502e9285.js"
   ]
 }
