@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/crane/static/css/main.69539eae.css",
-    "main.js": "/crane/static/js/main.4011725c.js",
-    "static/js/787.078a4898.chunk.js": "/crane/static/js/787.078a4898.chunk.js",
-    "index.html": "/crane/index.html",
-    "main.69539eae.css.map": "/crane/static/css/main.69539eae.css.map",
-    "main.4011725c.js.map": "/crane/static/js/main.4011725c.js.map",
-    "787.078a4898.chunk.js.map": "/crane/static/js/787.078a4898.chunk.js.map"
+    "main.css": "/crane.cenk.one/static/css/main.69539eae.css",
+    "main.js": "/crane.cenk.one/static/js/main.ceb49822.js",
+    "static/js/787.078a4898.chunk.js": "/crane.cenk.one/static/js/787.078a4898.chunk.js",
+    "index.html": "/crane.cenk.one/index.html",
+    "main.69539eae.css.map": "/crane.cenk.one/static/css/main.69539eae.css.map",
+    "main.ceb49822.js.map": "/crane.cenk.one/static/js/main.ceb49822.js.map",
+    "787.078a4898.chunk.js.map": "/crane.cenk.one/static/js/787.078a4898.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69539eae.css",
-    "static/js/main.4011725c.js"
+    "static/js/main.ceb49822.js"
   ]
 }
